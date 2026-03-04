@@ -6,7 +6,7 @@
 
 [Brief description or overview of the project, course, or implementation.]
 
-[![Action Text](https://img.shields.io/badge/Platform-Action_Text-blue?logo=PlatformName)]([Link_to_Repository_or_Project])
+[![Action Text](https://img.shields.io/badge/Platform-Action_Text-8c67d3?logo=PlatformName)]([Link_to_Repository_or_Project])
 
 **[Sub-Project or Feature 1 Name]:** [Description of the feature, model, or tool used] ([Link Text]([Link_URL])).
 
