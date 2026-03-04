@@ -29,5 +29,5 @@ I am always eager to learn, grow, and collaborate. Thank you for stopping by! âœ
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=18&duration=4000&pause=1000&color=A685E2&center=true&vCenter=true&width=435&lines=Bridging+Physics+and+Data;Always+curious,+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=400&size=18&duration=4000&pause=1000&color=A685E2&center=true&vCenter=true&width=435&lines=Always+curious,+always+learning" alt="Typing SVG" />
 </div>
