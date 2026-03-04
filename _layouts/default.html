@@ -14,7 +14,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; display: block; margin: 0 auto 20px auto;" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 70%; width: 160px; height: 160px; object-fit: cover; display: block; margin: 0 auto 20px auto;" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -46,3 +46,4 @@
     {% endif %}
   </body>
 </html>
+
