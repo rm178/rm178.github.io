@@ -18,8 +18,8 @@
 ---
 ### [Project 2 Title]
 
-[![Action Text 1](https://img.shields.io/badge/Platform-Action_Text-blue?logo=PlatformName)]([Link_to_Resource_1])
-[![Action Text 2](https://img.shields.io/badge/Platform-Action_Text-blue?logo=PlatformName)]([Link_to_Resource_2])
+[![Action Text 1](https://img.shields.io/badge/Platform-Action_Text-8c67d3?logo=PlatformName)]([Link_to_Resource_1])
+[![Action Text 2](https://img.shields.io/badge/Platform-Action_Text-8c67d3?logo=PlatformName)]([Link_to_Resource_2])
 
 <div style="text-align: justify">[Detailed description of the project, including the problem context, the approach or tools used, and the results achieved. Replace this text with your own summary.]</div>
 <br>
