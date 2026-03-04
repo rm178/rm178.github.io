@@ -29,5 +29,5 @@ I am always eager to learn, grow, and collaborate. Thank you for stopping by! âœ
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?  font=Noto+Sans&weight=400&size=18&duration=5000&pause=1500&color=A685E2&center=true&vCenter=true&width=550&lines=Time+guards+the+ancient+scrolls;Patterns+reveal+their+hidden+truths;Within+the+pages+of+time+lie+infinite+secrets;I+am+but+a+humble+seeker;Seeker+of+the+silent+truth;Reader+of+the+cosmic+script" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=400&size=18&duration=5000&pause=1500&color=A685E2&center=true&vCenter=true&width=800&lines=Time+guards+the+ancient+scrolls;Patterns+reveal+their+hidden+truths;Within+the+pages+of+time+lie+infinite+secrets;I+am+but+a+humble+seeker;Seeker+of+the+silent+truth;Reader+of+the+cosmic+script" alt="Typing SVG" />
 </div>
